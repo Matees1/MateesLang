@@ -1,0 +1,10 @@
+
+
+
+MateesLang todo's:
+	
+
+	1.Lexer - The lexer will read the file and convert each piece of text into 
+		  tokens for the parser to read. 
+		  
+		-  Token format:  line:1 -->["INT:5", "PLUS:+", "INT:3"]
